@@ -1,4 +1,4 @@
-# Displaying a Tic Tac Toe Board
+learn # Displaying a Tic Tac Toe Board
 
 ## Overview
 
